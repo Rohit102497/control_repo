@@ -1,6 +1,6 @@
 # control_repo
 
-This repo is created for the Puppet course in linkedIn.
+This repo is created for learning the Puppet course in linkedIn.
 * Course Name – Learning Puppet
 * Course link - https://www.linkedin.com/learning/learning-puppet/welcome?u=26886434
 * Type – Beginner
